@@ -1,0 +1,23 @@
+# Large raw / regenerable data (GitHub rejects files > 100 MB)
+enamine/Enamine_SMILES.csv
+enamine/Enamine_similarity_hits.csv
+docking/screening_library.csv
+
+# AutoGrid affinity maps (regenerate with autogrid4 from *.gpf)
+*.map
+
+# Third-party binaries
+*.exe
+ad4/autodock4
+ad4/autogrid4
+dockingflow/autodock4
+dockingflow/autogrid4
+
+# Backup archives
+archive/
+
+# Python / Jupyter / Office clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*

@@ -1,0 +1,10 @@
+# Files run/read under WSL (bash, AutoDock) must keep LF endings
+*.sh    text eol=lf
+*.dpf   text eol=lf
+*.gpf   text eol=lf
+*.pdbqt text eol=lf
+*.fld   text eol=lf
+*.xyz   text eol=lf
+*.docx binary
+*.png  binary
+*.zip  binary

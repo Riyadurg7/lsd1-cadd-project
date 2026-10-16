@@ -1,0 +1,73 @@
+pert_iname,smiles,clinical_phase,moa,target,max_sim
+seclidemstat,CN1CCN(CC1)S(=O)(=O)c1cccc(c1)C(=O)N\N=C(/C)c1cc(Cl)ccc1O,Phase 1,histone demethylase inhibitor,,1.0
+OG-L002,N[C@H]1C[C@@H]1c1ccc(cc1)-c1cccc(O)c1,Preclinical,histone lysine demethylase inhibitor,KDM1A,1.0
+paclitaxel,CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)c3ccccc3)[C@@H]3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C1=O)OC(C)=O)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)c1ccccc1)c1ccccc1 |c:5|,Launched,tubulin polymerization inhibitor,BCL2|MAP2|MAP4|MAPT|NR1I2|TLR4|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,1.0
+ORY-1001,NC1CCC(CC1)N[C@@H]1C[C@H]1c1ccccc1,Phase 1/Phase 2,histone lysine demethylase inhibitor,KDM1A,1.0
+GSK2879552,OC(=O)c1ccc(CN2CCC(CN[C@@H]3C[C@H]3c3ccccc3)CC2)cc1,Phase 1/Phase 2,histone lysine demethylase inhibitor,KDM1A,1.0
+RN-1,CN1CCN(CC1)C(=O)CN[C@@H]1C[C@H]1c1ccc(OCc2ccccc2)cc1,Preclinical,histone demethylase inhibitor,KDM1A,1.0
+GSK-LSD-1,C1[C@@H](NC2CCNCC2)[C@@H]1c1ccccc1,Preclinical,histone lysine demethylase inhibitor,KDM1A,1.0
+cephalomannine,C\C=C(/C)C(=O)N[C@H]([C@@H](O)C(=O)O[C@H]1C[C@@]2(O)[C@@H](OC(=O)c3ccccc3)[C@@H]3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C(=O)[C@H](OC(C)=O)C(=C1C)C2(C)C)OC(C)=O)c1ccccc1 |t:47|,Preclinical,DNA polymerase inhibitor,,0.8723404255319149
+docetaxel,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)[C@@H]2[C@H](OC(=O)c2ccccc2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c3ccccc3)C(C)=C([C@@H](O)C1=O)C2(C)C |t:53|,Launched,tubulin polymerization inhibitor,BCL2|MAP2|MAP4|MAPT|NR1I2|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,0.7676767676767676
+cabazitaxel,CO[C@H]1C[C@H]2OC[C@@]2(OC(C)=O)[C@H]2[C@H](OC(=O)c3ccccc3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c4ccccc4)C(C)=C([C@@H](OC)C(=O)[C@]12C)C3(C)C |t:51|,Launched,microtubule inhibitor,TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,0.7115384615384616
+tazemetostat,CCN(C1CCOCC1)c1cc(cc(C(=O)NCc2c(C)cc(C)[nH]c2=O)c1C)-c1ccc(CN2CCOCC2)cc1,Launched,histone lysine methyltransferase inhibitor,EZH2,0.6630434782608695
+10-deacetylbaccatin,CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)[C@@H]2[C@H](OC(=O)c2ccccc2)[C@]2(O)C[C@H](O)C(C)=C([C@@H](O)C1=O)C2(C)C |t:33|,Preclinical,antitumor agent,,0.6170212765957447
+tamoxifen,CC\C(=C(/c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,Launched,estrogen receptor antagonist|selective estrogen receptor modulator (SERM),EBP|ESR1|ESR2|GPER1|PRKCA|PRKCB|PRKCD|PRKCE|PRKCG|PRKCI|PRKCQ|PRKCZ,0.6140350877192983
+CP-99994,COc1ccccc1CN[C@H]1CCCN[C@H]1c1ccccc1,Phase 2,tachykinin antagonist,TACR1,0.5957446808510638
+afimoxifene,CC\C(=C(/c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,Phase 2,estrogen receptor antagonist,ESR1|ESR2|ESRRG|PLD1|PRKCD|PRKCE|PRKCQ|PRKCZ,0.5737704918032787
+droloxifene,CC\C(=C(\c1ccc(OCCN(C)C)cc1)c1cccc(O)c1)c1ccccc1,Phase 3,selective estrogen receptor modulator (SERM),ESR1,0.5625
+SCS,Oc1ccccc1\C=N\NC(=O)c1ccccc1O,Preclinical,,,0.5434782608695652
+tranylcypromine,"N[C@H]1C[C@@H]1c1ccccc1 |&1:1,3|",Launched,monoamine oxidase inhibitor,KDM1A|MAOA|MAOB,0.5151515151515151
+CXD101,Cc1nn(C)cc1CN1CCC(CC1)c1ccc(cc1)C(=O)Nc1ccccc1N,Phase 1/Phase 2,HDAC inhibitor,,0.5
+4-IBP,Ic1ccc(cc1)C(=O)NC1CCN(Cc2ccccc2)CC1,Preclinical,sigma receptor agonist,SIGMAR1,0.4918032786885246
+vixotrigine,NC(=O)[C@@H]1CC[C@@H](N1)c1ccc(OCc2ccccc2F)cc1,Phase 2,sodium channel blocker,,0.4915254237288136
+toremifene,CN(C)CCOc1ccc(cc1)C(=C(\CCCl)c1ccccc1)\c1ccccc1,Launched,estrogen receptor antagonist|selective estrogen receptor modulator (SERM),ESR1,0.484375
+JNJ-26481585,Cn1cc(CNCC2CCN(CC2)c2ncc(cn2)C(=O)NO)c2ccccc12,Phase 2,HDAC inhibitor,HDAC1|HDAC10|HDAC11|HDAC2|HDAC3|HDAC4|HDAC5|HDAC6|HDAC7|HDAC8|HDAC9|MDM2,0.4788732394366197
+centpropazine,"CCC(=O)c1ccc(OC[C@@H](O)CN2CCN(CC2)c2ccccc2)cc1 |&1:10,r|",Phase 3,inositol monophosphatase inhibitor,,0.47692307692307695
+M-344,CN(C)c1ccc(cc1)C(=O)NCCCCCCC(=O)NO,Preclinical,HDAC inhibitor,HDAC8,0.4745762711864407
+EPZ011989,CCN([C@H]1CC[C@@H](CC1)N(C)CCOC)c1cc(cc(C(=O)NCc2c(C)cc(C)[nH]c2=O)c1C)C#CCN1CCOCC1 |r|,Preclinical,histone lysine methyltransferase inhibitor,EZH2,0.4727272727272727
+kartogenin,OC(=O)c1ccccc1C(=O)Nc1ccc(cc1)-c1ccccc1,Preclinical,chondrocyte differentiation stimulator,FLNA,0.46511627906976744
+benzofenac,OC(=O)Cc1ccc(OCc2ccccc2)c(Cl)c1,Phase 1,,,0.45901639344262296
+TC-H-106,Cc1ccc(NC(=O)CCCCCC(=O)Nc2ccccc2N)cc1,Preclinical,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC8,0.45161290322580644
+9-aminoacridine,Nc1c2ccccc2nc2ccccc12,Preclinical,,,0.45161290322580644
+4-PPBP,C(CCc1ccccc1)CN1CCC(CC1)c1ccccc1,Preclinical,sigma receptor ligand,SIGMAR1,0.4423076923076923
+benzoylpas,OC(=O)c1ccc(NC(=O)c2ccccc2)cc1O,Preclinical,,,0.4418604651162791
+adiporon,O=C(COc1ccc(cc1)C(=O)c1ccccc1)NC1CCN(Cc2ccccc2)CC1,Preclinical,adiponectin receptor agonist,ADIPOR1|ADIPOR2,0.4393939393939394
+4-(4-fluorobenzoyl)-1-(4-phenylbutyl)-piperidine,Fc1ccc(cc1)C(=O)C1CCN(CCCCc2ccccc2)CC1,Preclinical,serotonin receptor antagonist,HTR2A,0.4393939393939394
+VU0357121,CCCCOc1ccc(cc1)C(=O)Nc1ccc(F)cc1F,Preclinical,glutamate receptor positive allosteric modulator,GRM5,0.4375
+amsacrine,COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2ccccc12,Launched,topoisomerase inhibitor,KCNH2|TOP2A,0.4375
+bentiromide,OC(=O)c1ccc(NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)c2ccccc2)cc1,Launched,,HPN,0.43548387096774194
+verubulin,COc1ccc(cc1)N(C)c1nc(C)nc2ccccc12,Phase 2,tubulin polymerization inhibitor,TUBB,0.4339622641509434
+oxiperomide,O=c1[nH]c2ccccc2n1C1CCN(CCOc2ccccc2)CC1,Phase 2,dopamine receptor antagonist,,0.43103448275862066
+EPZ005687,Cc1cc(C)c(CNC(=O)c2cc(cc3n(ncc23)C2CCCC2)-c2ccc(CN3CCOCC3)cc2)c(=O)[nH]1,Preclinical,histone lysine methyltransferase inhibitor,EZH2,0.42990654205607476
+clebopride,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(Cc2ccccc2)CC1,Launched,dopamine receptor antagonist,ACHE|DRD2,0.42857142857142855
+alclofenac,OC(=O)Cc1ccc(OCC=C)c(Cl)c1,Launched,cyclooxygenase inhibitor,PTGS1,0.42857142857142855
+lasofoxifene,O[C@@H]([C@H](O)C(O)=O)C(O)=O.Oc1ccc2[C@H]([C@H](CCc2c1)c1ccccc1)c1ccc(OCCN2CCCC2)cc1,Launched,selective estrogen receptor modulator (SERM),ESR1|ESR2,0.4266666666666667
+levocabastine,C[C@@H]1CN(CC[C@]1(C(O)=O)c1ccccc1)[C@H]1CC[C@](CC1)(C#N)c1ccc(F)cc1,Launched,histamine receptor antagonist,HRH1|NTSR2,0.4264705882352941
+brilliant-green,CCN(CC)c1ccc(cc1)[C+](c1ccccc1)c1ccc(cc1)N(CC)CC,Launched,,,0.425
+LY456236,COc1ccc(Nc2ncnc3ccc(OC)cc23)cc1,Preclinical,glutamate receptor antagonist,GRM1,0.4230769230769231
+N-methylquipazine,CN1CCN(CC1)c1ccc2ccccc2n1,Preclinical,serotonin receptor agonist,,0.4222222222222222
+AK-7,Brc1cccc(NC(=O)c2cccc(c2)S(=O)(=O)N2CCCCCC2)c1,Preclinical,SIRT inhibitor,SIRT2,0.42105263157894735
+TC-S-7003,CN1CCN(CC1)c1ccc(Nc2ncc3c(n2)n2c(nc4ccccc24)n(-c2c(C)cccc2C)c3=O)cc1,Preclinical,SRC inhibitor,LCK,0.42028985507246375
+SKLB-1028,CC(C)n1c(Nc2cccnc2)nc2cnc(Nc3ccc(cc3)N3CCN(C)CC3)nc12,Preclinical,Abl kinase inhibitor|EGFR inhibitor|FLT3 inhibitor,,0.41935483870967744
+ticagrelor,CCCSc1nc(N[C@@H]2C[C@H]2c2ccc(F)c(F)c2)c2nnn([C@@H]3C[C@H](OCCO)[C@@H](O)[C@H]3O)c2n1,Launched,purinergic receptor antagonist,P2RY12,0.41904761904761906
+GR-113808,Cn1cc(C(=O)OCC2CCN(CCNS(C)(=O)=O)CC2)c2ccccc12,Preclinical,serotonin receptor antagonist,HTR4,0.417910447761194
+etebenecid,CCN(CC)S(=O)(=O)c1ccc(cc1)C(O)=O,Preclinical,uricosuric blocker,,0.4166666666666667
+troxipide,"COc1cc(cc(OC)c1OC)C(=O)N[C@H]1CCCNC1 |&1:15,r|",Launched,glucosamine synthetase stimulant,,0.41333333333333333
+OAC2,O=C(Nc1ccc2[nH]ccc2c1)c1ccccc1,Preclinical,Oct activator,POU5F1,0.41304347826086957
+VUF10166,CN1CCN(CC1)c1nc2ccccc2nc1Cl,Preclinical,serotonin receptor antagonist,HTR3A|HTR3B,0.41304347826086957
+endoxifen,CC\C(=C(/c1ccc(O)cc1)c1ccc(OCCNC)cc1)c1ccccc1,Phase 2,estrogen receptor antagonist,ESR1,0.4117647058823529
+tacedinaline,CC(=O)Nc1ccc(cc1)C(=O)Nc1ccccc1N,Phase 3,HDAC inhibitor,HDAC1,0.4098360655737705
+pilsicainide,Cc1cccc(C)c1NC(=O)CC12CCCN1CCC2,Launched,sodium channel blocker,SCN5A,0.4098360655737705
+ANA-12,"O=C(Nc1ccccc1C(=O)N[C@H]1CCCCNC1=O)c1cc2ccccc2s1 |&1:12,r|",Preclinical,tropomyosin receptor kinase inhibitor,NTRK2,0.40963855421686746
+PCI-24781,CN(C)Cc1c(oc2ccccc12)C(=O)NCCOc1ccc(cc1)C(=O)NO,Phase 3,HDAC inhibitor,HDAC1|HDAC2|HDAC3|HDAC6,0.4090909090909091
+N-[2-(piperidinylamino)ethyl]-4-iodobenzamide,Ic1ccc(cc1)C(=O)NCCN1CCCCC1,Preclinical,sigma receptor ligand,,0.4067796610169492
+ZD-2079,O[C@@H](CNCCOc1ccc(CC(O)=O)cc1)c1ccccc1,Phase 2,adrenergic receptor agonist,ADRB3,0.40625
+IDF-11774,CN1CCN(CC1)C(=O)COc1ccc(cc1)C12CC3CC(CC(C3)C1)C2,Preclinical,hypoxia inducible factor inhibitor,,0.40625
+aripiprazole,Clc1cccc(N2CCN(CCCCOc3ccc4CCC(=O)Nc4c3)CC2)c1Cl,Launched,serotonin receptor agonist|serotonin receptor antagonist,ADRA1A|ADRA1B|ADRA2A|ADRA2B|ADRA2C|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|DRD1|DRD2|DRD3|DRD4|DRD5|HRH1|HTR1A|HTR1B|HTR1D|HTR1E|HTR2A|HTR2C|HTR3A|HTR6|HTR7,0.4050632911392405
+cilostazol,O=C1CCc2cc(OCCCCc3nnnn3C3CCCCC3)ccc2N1,Launched,phosphodiesterase inhibitor,PDE3A|PDE3B,0.4050632911392405
+A922500,OC(=O)[C@H]1CCC[C@H]1C(=O)c1ccc(cc1)-c1ccc(NC(=O)Nc2ccccc2)cc1,Preclinical,diacylglycerol O acyltransferase inhibitor,DGAT1,0.40384615384615385
+A-922500,OC(=O)[C@@H]1CCC[C@H]1C(=O)c1ccc(cc1)-c1ccc(NC(=O)Nc2ccccc2)cc1,Preclinical,diacylglycerol O acyltransferase inhibitor,DGAT1,0.40384615384615385
+chloroxine,Oc1c(Cl)cc(Cl)c2cccnc12,Launched,opioid receptor antagonist,OPRK1,0.40350877192982454
+S-38093,NC(=O)c1ccc(OCCCN2C[C@@H]3CCC[C@@H]3C2)cc1 |r|,Preclinical,histamine receptor antagonist,,0.4032258064516129
+monobenzone,Oc1ccc(OCc2ccccc2)cc1,Launched,melanin inhibitor,TYR,0.4
+MG-132,CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)OCc1ccccc1)C=O,Preclinical,proteasome inhibitor,PSMB1,0.4

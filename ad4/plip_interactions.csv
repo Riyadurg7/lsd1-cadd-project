@@ -1,0 +1,53 @@
+ligand,group,energy,interaction,residue,distance
+E0004,enamine_hit,-10.36,H-bond,TYR761,3.46
+E0004,enamine_hit,-10.36,Hydrophobic,THR335,3.21
+E0004,enamine_hit,-10.36,Hydrophobic,ALA539,3.87
+E0004,enamine_hit,-10.36,Hydrophobic,TRP552,3.77
+E0004,enamine_hit,-10.36,Hydrophobic,TRP552,3.48
+E0004,enamine_hit,-10.36,Hydrophobic,TRP695,3.53
+E0004,enamine_hit,-10.36,Hydrophobic,PRO808,3.83
+E0004,enamine_hit,-10.36,Hydrophobic,ALA809,3.81
+E0004,enamine_hit,-10.36,Hydrophobic,VAL764,3.22
+E0004,enamine_hit,-10.36,pi-stacking,PHE538,4.47
+E0004,enamine_hit,-10.36,Halogen bond,ASN535,3.8
+E0008,enamine_hit,-10.25,H-bond,TYR761,3.17
+E0008,enamine_hit,-10.25,H-bond,TYR761,3.17
+E0008,enamine_hit,-10.25,Hydrophobic,VAL333,3.82
+E0008,enamine_hit,-10.25,Hydrophobic,VAL333,3.34
+E0008,enamine_hit,-10.25,Hydrophobic,TYR807,3.33
+E0008,enamine_hit,-10.25,Hydrophobic,THR810,3.53
+E0008,enamine_hit,-10.25,Hydrophobic,THR335,3.62
+E0008,enamine_hit,-10.25,pi-stacking,PHE560,5.01
+L0003,active,-10.98,H-bond,THR335,3.61
+L0003,active,-10.98,H-bond,PHE560,3.0
+L0003,active,-10.98,H-bond,ASP555,4.06
+L0003,active,-10.98,Hydrophobic,VAL333,3.68
+L0003,active,-10.98,Hydrophobic,THR335,3.64
+L0003,active,-10.98,Hydrophobic,PHE538,3.61
+L0003,active,-10.98,Hydrophobic,ASN540,3.83
+L0003,active,-10.98,Hydrophobic,TRP695,3.47
+L0003,active,-10.98,Hydrophobic,VAL764,3.8
+L0003,active,-10.98,Hydrophobic,TYR761,3.66
+L0003,active,-10.98,Hydrophobic,TYR763,3.41
+L0003,active,-10.98,Hydrophobic,ALA809,3.08
+L0003,active,-10.98,Hydrophobic,THR810,2.99
+L0003,active,-10.98,Salt bridge,ASP555,4.69
+L0003,active,-10.98,Halogen bond,ASP555,3.48
+L0004,active,-10.42,H-bond,THR335,3.17
+L0004,active,-10.42,H-bond,PHE560,2.89
+L0004,active,-10.42,H-bond,ASP555,2.79
+L0004,active,-10.42,Hydrophobic,GLU559,3.73
+L0004,active,-10.42,Hydrophobic,TYR763,3.78
+L0004,active,-10.42,Hydrophobic,THR335,3.23
+L0005,active,-11.21,H-bond,THR335,3.66
+L0005,active,-11.21,H-bond,PHE560,3.07
+L0005,active,-11.21,H-bond,VAL764,2.85
+L0005,active,-11.21,H-bond,TRP552,3.01
+L0005,active,-11.21,Hydrophobic,VAL333,3.38
+L0005,active,-11.21,Hydrophobic,ASN540,3.77
+L0005,active,-11.21,Hydrophobic,TRP695,3.45
+L0005,active,-11.21,Hydrophobic,TYR763,3.55
+L0005,active,-11.21,Hydrophobic,TYR761,3.52
+L0005,active,-11.21,Hydrophobic,ALA809,2.94
+L0005,active,-11.21,Hydrophobic,THR810,3.06
+L0005,active,-11.21,Salt bridge,ASP555,4.76

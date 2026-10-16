@@ -1,0 +1,7 @@
+lig_id,group,pIC50,smiles,score
+L0000,active,10.221848749616356,O=C(Nc1cccc2c1N(Cc1ccc(OC3CCNCC3)cc1)CCC2)c1cc2ccccc2n1CCF,-9.676
+L0001,active,10.207608310501746,Cc1ccc(-c2ccc(CN3[C@@H]4CC[C@H]3[C@@H](N)C4)cc2-c2ccc(C#N)c(F)c2)c(F)c1,-9.842
+L0002,active,10.1249387366083,CCC(O)(CC)Cn1nnc2cc(-c3ccc(CN4[C@@H]5CC[C@H]4[C@@H](N)C5)cc3-c3ccc(C#N)c(F)c3)c(F)c(Cl)c21,-8.995
+L0003,active,10.119186407719209,CCC(O)(CC)Cn1nnc2cc(-c3ccc(CN4[C@@H]5CC[C@H]4[C@@H](N)C5)cc3-c3ccc(C#N)c(F)c3)c(F)c(F)c21,-9.779
+L0004,active,10.045757490560677,Cc1noc2cc(-c3ccc(C(=O)N4[C@@H]5CC[C@H]4[C@@H](N)C5)cc3-c3ccc(C#N)c(F)c3)c(F)cc12,-10.947
+L0005,active,10.040958607678906,CC(C)(O)Cn1nnc2cc(-c3ccc(CN4[C@@H]5CC[C@H]4[C@@H](N)C5)cc3-c3ccc(C#N)c(F)c3)c(F)c(F)c21,-10.621

@@ -1,0 +1,19 @@
+npts 60 60 60
+gridfld receptor.maps.fld
+spacing 0.375
+receptor_types A C HD N NA OA P SA
+ligand_types A C Cl F HD N NA OA
+receptor receptor.pdbqt
+gridcenter -2.722 43.384 85.953
+smooth 0.5
+map receptor.A.map
+map receptor.C.map
+map receptor.Cl.map
+map receptor.F.map
+map receptor.HD.map
+map receptor.N.map
+map receptor.NA.map
+map receptor.OA.map
+elecmap receptor.e.map
+dsolvmap receptor.d.map
+dielectric -0.1465
